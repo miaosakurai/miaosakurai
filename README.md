@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hi there 👋 This is Miao!
+
+👩🏻‍💻 I'm Miao Cao, a graduate student in The University of Tokyo, majoring in Information & Communication Engineering (ICE). I belong to [Prof. Aizawa's lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and my research is about Computer Vision.
+I love programming because I love to learn and build new things.⭐️
+
+### 💻 My Tech stack
+* Backend development: **Java, SpringBoot, MySQL**
+* Front-end development: **VueJS, HTML, Javascript,CSS,Bootstrap**
+* Machine learning & Deep learning: **Python, PyTorch, TensorFlow**
+* Solving Data structure and algorithm questions in **Java and Python**
+* Other: **git, Linux**
+
+### 🌱 I’m currently working on
+* Finish my ICE Master Degree in The University of Tokyo
+* Find a job in 2021
+* Do research on 360-degree Computer vision
+
+### 🔭 Things I am challenging myself with
+* 3 leetcode problems a day
+* Finish a paper before March
+* Exercise everyday with Ring Fit Adventure
+
+### 🙆‍♀️ The languages I speak
+* Japanese: proficient
+* English: proficient
+* Chinese: native
+
+### 📫 How to contact me
+[Linkedin](https://www.linkedin.com/in/caomiaotokyo/) [Gmail](mailto:cao@hal.t.u-tokyo.ac.jp)
 
 <!--
 **miaosakurai/miaosakurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
