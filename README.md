@@ -11,9 +11,9 @@ I love programming because I love to learn and build new things.⭐️
 * Other: **git, Linux**
 
 ### 🌱 I’m currently working on
-* Finish my ICE Master Degree in The University of Tokyo
-* Find a job in 2021
-* Do research on 360-degree Computer vision
+* Finishing my ICE Master Degree in The University of Tokyo
+* Looking for a software engineer job in Tokyo
+* Doing research on 360-degree Computer vision
 
 ### 🔭 Things I am challenging myself with
 * 3 leetcode problems a day
