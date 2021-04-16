@@ -16,9 +16,8 @@ I love programming because I love to learn and build new things.⭐️
 * Doing research on 360-degree Computer vision
 
 ### 🔭 Things I am challenging myself with
-* 3 leetcode problems a day
-* Finish a paper before March
-* Exercise everyday with Ring Fit Adventure
+* Everyday: leetcode & exercise with Ring Fit Adventure
+* April: prepare rinko presentation & paper
 
 ### 🙆‍♀️ The languages I speak
 * Japanese: proficient
