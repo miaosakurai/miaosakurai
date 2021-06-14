@@ -4,8 +4,8 @@
 I love programming because I love to learn and build new things.⭐️
 
 ### 💻 My Tech stack
-* Backend development: **Java, SpringBoot, MySQL**
-* Front-end development: **VueJS, HTML, Javascript,CSS,Bootstrap**
+* Backend development: **Java, SpringBoot, MySQL, Golang, microservice**
+* Front-end development: **VueJS, HTML, Javascript, CSS, Bootstrap**
 * Machine learning & Deep learning: **Python, PyTorch, TensorFlow**
 * Solving Data structure and algorithm questions in **Java and Python**
 * Other: **git, Linux**
@@ -16,8 +16,8 @@ I love programming because I love to learn and build new things.⭐️
 * Doing research on 360-degree Computer vision
 
 ### 🔭 Things I am challenging myself with
-* Everyday: leetcode & exercise with Ring Fit Adventure
-* April: prepare rinko presentation & paper
+* Everyday: leetcode & exercise
+* June: internship & new research direction
 
 ### 🙆‍♀️ The languages I speak
 * Japanese: proficient
