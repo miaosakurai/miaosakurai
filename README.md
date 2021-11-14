@@ -4,20 +4,16 @@
 I love programming because I love to learn and build new things.⭐️
 
 ### 💻 My Tech stack
-* Backend development: **Java, SpringBoot, MySQL, Golang, microservice**
+* Backend development: **Golang, microservice, Java, SpringBoot, MySQL**
 * Front-end development: **VueJS, HTML, Javascript, CSS, Bootstrap**
 * Machine learning & Deep learning: **Python, PyTorch, TensorFlow**
 * Solving Data structure and algorithm questions in **Java and Python**
-* Other: **git, Linux**
+* Other: **git, Linux, DevOps**
 
 ### 🌱 I’m currently working on
-* Finishing my ICE Master Degree in The University of Tokyo
-* Looking for a software engineer job in Tokyo
-* Doing research on 360-degree Computer vision
-
-### 🔭 Things I am challenging myself with
-* Everyday: leetcode & exercise
-* June: internship & new research direction
+[] Finishing my ICE Master Degree in The University of Tokyo
+[x] Looking for a software engineer job in Tokyo
+[] Doing research on 360-degree Computer vision
 
 ### 🙆‍♀️ The languages I speak
 * Japanese: proficient
