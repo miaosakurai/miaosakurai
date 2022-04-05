@@ -1,19 +1,20 @@
 ### Hi there 👋 This is Miao!
 
-👩🏻‍💻 I'm Miao Cao, a graduate student in The University of Tokyo, majoring in Information & Communication Engineering (ICE). I belong to [Prof. Aizawa's lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and my research is about Computer Vision.
+👩🏻‍💻 I'm Miao, a software engineer in Mercari. I'm currently living in Tokyo.
+~~a graduate student in The University of Tokyo, majoring in Information & Communication Engineering (ICE). I belong to [Prof. Aizawa's lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and my research is about Computer Vision.~~
 I love programming because I love to learn and build new things.⭐️
 
 ### 💻 My Tech stack
-* Backend development: **Golang, microservice, Java, SpringBoot, MySQL**
-* Front-end development: **VueJS, HTML, Javascript, CSS, Bootstrap**
-* Machine learning & Deep learning: **Python, PyTorch, TensorFlow**
-* Solving Data structure and algorithm questions in **Java and Python**
-* Other: **git, Linux, DevOps**
+* Backend development: **Golang, Java & Spring**
+* Front-end development: **VueJS, HTML, Javascript, CSS**
+* Machine learning: **Python, PyTorch, TensorFlow**
+* Data: **Elasticsearch, MySQL**
+* Infra: **Kubernates, Docker, Terraform, GCP**
 
 ### 🌱 I’m currently working on
-- [ ] Finishing my ICE Master Degree in The University of Tokyo
-- [x] Looking for a software engineer job in Tokyo
-- [ ] Doing research on 360-degree Computer vision
+* Switch from student to 社会人 👩🏻‍💼
+* Learn Elasticsearch 🔎
+* Less spicy food 🥵
 
 ### 🙆‍♀️ The languages I speak
 * Japanese: proficient
