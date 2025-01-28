@@ -2,19 +2,14 @@
 
 👩🏻‍💻 I'm Miao, a software engineer in Mercari. I'm currently living in Tokyo.
 ~~a graduate student in The University of Tokyo, majoring in Information & Communication Engineering (ICE). I belong to [Prof. Aizawa's lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and my research is about Computer Vision.~~
-I love programming because I love to learn and build new things.⭐️
+I love programming, cloth making, and building new things.⭐️
 
 ### 💻 My Tech stack
-* Backend development: **Golang, Java & Spring**
+* Backend development: **Python, Golang, Java**
 * Front-end development: **VueJS, HTML, Javascript, CSS**
-* Machine learning: **Python, PyTorch, TensorFlow**
+* Machine learning: **PyTorch, TensorFlow**
 * Data: **Elasticsearch, MySQL**
 * Infra: **Kubernates, Docker, Terraform, GCP**
-
-### 🌱 I’m currently working on
-* Switch from student to 社会人 👩🏻‍💼
-* Learn Elasticsearch 🔎
-* Less spicy food 🥵
 
 ### 🙆‍♀️ The languages I speak
 * Japanese: proficient
@@ -22,7 +17,7 @@ I love programming because I love to learn and build new things.⭐️
 * Chinese: native
 
 ### 📫 How to contact me
-[Linkedin](https://www.linkedin.com/in/caomiaotokyo/) [Gmail](mailto:cao@hal.t.u-tokyo.ac.jp)
+[Linkedin](https://www.linkedin.com/in/caomiaotokyo/) [Gmail](miaosakurai@gmail.com)
 
 <!--
 **miaosakurai/miaosakurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
